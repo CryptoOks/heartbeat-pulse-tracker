@@ -1,0 +1,9 @@
+{
+  "ts": "2026-02-27T19:52:02+00:00",
+  "source": "heartbeat-pulse-tracker",
+  "metrics": {
+    "uptimePulse": 65,
+    "loadAvgLite": 0.92
+  },
+  "hash": "6f0d6cc23af46017a965df07c83aef1bb04eabeab3f2ef2b44eef746a088e0f3"
+}
